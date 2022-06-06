@@ -4,3 +4,6 @@ This is my internship project as a data scientist at [id/x partners](https://idx
 <br><br>
 
 In this project, I used the gradient boosted trees model (XGBoost and LightGBM) to determine the probability of a borrower’s default risk in a lending company and achieved a 98% accuracy score
+<br><br>
+
+You can read the summary of this project [here](https://adhang.github.io/pages/project-lendingclub-loan-credit-risk)
