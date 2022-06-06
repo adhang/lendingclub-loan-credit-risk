@@ -7,3 +7,9 @@ In this project, I used the gradient boosted trees model (XGBoost and LightGBM) 
 <br><br>
 
 You can read the summary of this project [here](https://adhang.github.io/pages/project-lendingclub-loan-credit-risk)
+
+# Contents
+
+- `LendingClub_Loan_Credit_Risk_EDA.ipynb` - Exploratory Data Aalysis notebook
+- `LendingClub_Loan_Credit_Risk_Modeling.ipynb` - Full modeling notebook, notebook for experiments
+- `LendingClub_Loan_Credit_Risk_Modeling_Clean.ipynb` - Clean modeling notebook
